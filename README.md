@@ -8,7 +8,7 @@ Este perfil reúne projetos desenvolvidos no contexto da Pós Full Stack Club e 
 
 ## Atividade recente
 
-[![Gráfico de atividade recente de fabianofsc](https://github-readme-activity-graph.vercel.app/graph?username=fabianofsc&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividade recente de fabianofsc](https://github-readme-activity-graph.vercel.app/graph?username=fabianofsc&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Mantido por [Fabiano Góes](https://github.com/fabianogoes), professor do curso. Para projetos e atuação profissional, acesse o perfil principal.
 
