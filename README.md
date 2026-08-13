@@ -19,3 +19,5 @@ Mantido por [Fabiano Góes](https://github.com/fabianogoes), professor do curso.
 - YouTube: [eprogramar](https://www.youtube.com/@eprogramar)
 - Instagram: [@eprogramar](https://www.instagram.com/eprogramar)
 - Pós-Graduação: [Full Stack Club](https://pos.fullstackclub.com.br/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" width="100%" alt="Onda animada que representa o movimento contínuo da pós" />
